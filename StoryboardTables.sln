@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoryboardTables", "StoryboardTables\StoryboardTables.csproj", "{ED4CA33D-8865-4C90-94CB-75FA7C270DE7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7ADC7D18-85A0-475D-B64B-A842A3FF00A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED4CA33D-8865-4C90-94CB-75FA7C270DE7}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{ED4CA33D-8865-4C90-94CB-75FA7C270DE7}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{ED4CA33D-8865-4C90-94CB-75FA7C270DE7}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{ED4CA33D-8865-4C90-94CB-75FA7C270DE7}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{ED4CA33D-8865-4C90-94CB-75FA7C270DE7}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{ED4CA33D-8865-4C90-94CB-75FA7C270DE7}.Debug|iPhone.Build.0 = Debug|iPhone
+		{ED4CA33D-8865-4C90-94CB-75FA7C270DE7}.Release|iPhone.ActiveCfg = Release|iPhone
+		{ED4CA33D-8865-4C90-94CB-75FA7C270DE7}.Release|iPhone.Build.0 = Release|iPhone
+	EndGlobalSection
+EndGlobal
