@@ -6,7 +6,7 @@ public class RootTableSource : UITableViewSource
 {
     // there is NO database or storage of Tasks in this example, just an in-memory List<>
     Chore[] tableItems;
-    string cellIdentifier = "taskcell"; // set in the Storyboard
+    string cellIdentifier = "taskCell"; // set in the Storyboard
 
     public RootTableSource(Chore[] items)
     {
